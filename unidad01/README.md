@@ -2,15 +2,21 @@
 
 # Conceptos generales
 
-En esta unidad estudiaremos los conceptos asociados a los lenguajes de programación con el fin de encontrar 
-características que tienen en común y poder usar las mismas para realizar distintos análisis más adelante.
+En esta unidad estudiaremos los conceptos asociados a los lenguajes de programación con el fin de encontrar características que tienen en común y con ello dar pie a realizar distintos análisis, poniendo especial atención a los conceptos de *paradigma*, *sintaxis* y *semántica* que usaremos a lo largo del curso.
 
-El curso supone un conocimiento básico de programación en algún lenguaje de programación así como conocimientos básicos
-de lógica matemática, en concreto en los siguientes temas:
+El curso supone un conocimiento básico de programación en algún lenguaje de programación así como conocimientos básicos de lógica matemática, en concreto en los siguientes temas:
 
 1. Programación básica: Programas secuenciales, estructuras de decisión, estructuras de repetición.
 1. Estructuras de datos: Arreglos, listas, árboles, pilas, colas, etc.
-1. Lógica matemática: 
+1. Lógica matemática: Propisición, argumento correcto, regla de inferencia, unificación, etc.
+
+## Contenido 
+
+1. Historia de los lenguajes de programación.
+2. Componentes de los lenguajes de programación.
+3. Clasificación de los lenguajes de programación.
+4. Sintaxis.
+5. Semántica.
 
 [`Siguiente`](unidad01/README.md)
 
