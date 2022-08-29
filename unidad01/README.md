@@ -12,11 +12,11 @@ El curso supone un conocimiento básico de programación en algún lenguaje de p
 
 ## Contenido 
 
-1. Historia de los lenguajes de programación.
+1. [Historia de los lenguajes de programación](tema01/README.md) 
 2. Componentes de los lenguajes de programación.
 3. Clasificación de los lenguajes de programación.
 4. Sintaxis.
 5. Semántica.
 
-[`Siguiente`](unidad01/README.md)
+[`Siguiente`](tema01/README.md)
 
