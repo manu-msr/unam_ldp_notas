@@ -151,4 +151,4 @@ programación se centra en el diseño y formalización de lenguajes a través de
 antes que nada comprender cuáles son los principales componentes de un
 lenguaje de programación. 
 
-[`Anterior`](#) | [`Siguiente`](#)
+[`Anterior`](../README.md) | [`Siguiente`](#)
