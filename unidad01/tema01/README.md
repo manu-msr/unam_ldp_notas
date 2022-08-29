@@ -151,4 +151,16 @@ programación se centra en el diseño y formalización de lenguajes a través de
 antes que nada comprender cuáles son los principales componentes de un
 lenguaje de programación. 
 
-[`Anterior`](../README.md) | [`Siguiente`](#)
+---
+
+> 📚 **Referencias.**   
+> 1. Samuel A. Rebelsky, Programming Languages, Notas de clase, Grinell College revisión 99S. Consultado el 20 de noviembre de 2018 http://www.math.grin.edu/~rebelsky/Courses/CS302/99S/Outlines/outline.02.html
+> 2. Favio E. Miranda, Elisa Viso, *Matemáticas Discretas*, Las Prensas de Ciencias, Segunda Edición, 2016.
+> 3. Raúl Rojas, A *Tutorial Introduction to the Lambda Calculus*, ArXiv, 2015.
+> 4. Bobby Kleinberg, *Notas de clase*, Cornell University, revisión 2012sp. Consultado el 7 de enero de 2019. http://www.cs.cornell.edu/courses/cs4820/2012sp/handouts/turingm.pdf
+> 5. *History of Computers, The Analitical Engige of Charles Babbage*, Consultado el 7 de enero de 2019. https://history-computer.com/Babbage/AnalyticalEngine.html
+> 6. José Galaviz, *Organización y Arquitectura de Computadoras*, Notas de clase, Facultad de Ciencias UNAM, revisión 2015-2.
+
+---
+
+[`Anterior`](../README.md) | [`Siguiente`](../tema02/README.md)
