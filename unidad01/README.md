@@ -16,7 +16,7 @@ El curso supone un conocimiento básico de programación en algún lenguaje de p
 2. [Componentes de los lenguajes de programación](tema02/README.md)
 3. [Clasificación de los lenguajes de programación](tema03/README.md)
 4. [Sintaxis](tema04/README.md)
-5. Semántica.
+5. [Semántica](tema05/README.md)
 
 [`Siguiente`](tema01/README.md)
 
