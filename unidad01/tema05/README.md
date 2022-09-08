@@ -168,4 +168,11 @@ Esta notación recibe el nombre de *semántica operacional de paso grande* o sim
 
 ---
 
+> 📚 **Referencias.**
+> 1. Shriram Krishnamirthi, *Programming Languages Application and Interpretation*, Primera Edición, Brown
+University, 2007.
+> 1. Hanne Riis Nielson, Flemming Nielson, *Semantics with Applications: An Appetizer*, Primera Edición, Springer, 2007.
+
+---
+
 [`Anterior`](../tema04/README.md) | [`Siguiente`](#)
