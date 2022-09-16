@@ -175,4 +175,4 @@ University, 2007.
 
 ---
 
-[`Anterior`](../tema04/README.md) | [`Siguiente`](#)
+[`Anterior`](../tema04/README.md) | [`Siguiente`](../tema06/README.md)

@@ -17,7 +17,7 @@ El curso supone un conocimiento básico de programación en algún lenguaje de p
 3. [Clasificación de los lenguajes de programación](tema03/README.md)
 4. [Sintaxis](tema04/README.md)
 5. [Semántica Natural](tema05/README.md)
-6. Semántica Estructural
+6. [Semántica Estructural](tema06/README.md)
 7. Integración
 
 [`Siguiente`](tema01/README.md)
