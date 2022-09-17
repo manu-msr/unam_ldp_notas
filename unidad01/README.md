@@ -8,17 +8,21 @@ El curso supone un conocimiento básico de programación en algún lenguaje de p
 
 1. Programación básica: Programas secuenciales, estructuras de decisión, estructuras de repetición.
 1. Estructuras de datos: Arreglos, listas, árboles, pilas, colas, etc.
+1. Programación funcional: Funciones, recursión, funciones de orden superior.
 1. Lógica matemática: Propisición, argumento correcto, regla de inferencia, unificación, etc.
 
-## Contenido 
+## 👨‍🏫 Contenido 
 
 1. [Historia de los lenguajes de programación](tema01/README.md) 
-2. [Componentes de los lenguajes de programación](tema02/README.md)
-3. [Clasificación de los lenguajes de programación](tema03/README.md)
-4. [Sintaxis](tema04/README.md)
-5. [Semántica Natural](tema05/README.md)
-6. [Semántica Estructural](tema06/README.md)
-7. Integración
+1. [Componentes de los lenguajes de programación](tema02/README.md)
+1. [Clasificación de los lenguajes de programación](tema03/README.md)
+1. [Sintaxis](tema04/README.md)
+1. [Semántica Natural](tema05/README.md)
+1. [Semántica Estructural](tema06/README.md)
+
+### 👨‍💻 Laboratorios 
+1. [Laboratorio 01: Introducción a **Haskell**](laboratorio01/README.md)
+1. [Laboratorio 02: Generación de código ejecutable](laboratorio02/README.md)
 
 [`Siguiente`](tema01/README.md)
 
