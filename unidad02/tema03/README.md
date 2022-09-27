@@ -1,4 +1,4 @@
-[`Lenguajes de Programación`](../../README.md) > [`Unidad 1`](../README.md) > Semántica Estructural
+[`Lenguajes de Programación`](../../README.md) > [`Unidad 2`](../README.md) > Semántica Estructural
 
 > 🧐 *Material tomado de las [Notas de Clase de Lenguajes de Programación](https://drive.google.com/file/d/1qptqIVrJumc8N3KLisslJjVWE1gbm90K/view) del L. en C.C. Javier Enríquez Mendoza con ligeras modificaciones.*
 
@@ -225,4 +225,4 @@ University, 2007.
 
 ---
 
-[`Anterior`](../tema05/README.md) | [`Siguiente`](../tema07/README.md)
+[`Anterior`](../tema02/README.md) | [`Siguiente`](../../README.md)

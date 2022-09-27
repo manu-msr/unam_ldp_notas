@@ -16,13 +16,10 @@ El curso supone un conocimiento básico de programación en algún lenguaje de p
 1. [Historia de los lenguajes de programación](tema01/README.md) 
 1. [Componentes de los lenguajes de programación](tema02/README.md)
 1. [Clasificación de los lenguajes de programación](tema03/README.md)
-1. [Sintaxis](tema04/README.md)
-1. [Semántica Natural](tema05/README.md)
-1. [Semántica Estructural](tema06/README.md)
 
 ### 👨‍💻 Laboratorios 
+
 1. [Laboratorio 01: Introducción a **Haskell**](laboratorio01/README.md)
-1. [Laboratorio 02: Generación de código ejecutable](laboratorio02/README.md)
 
 [`Siguiente`](tema01/README.md)
 

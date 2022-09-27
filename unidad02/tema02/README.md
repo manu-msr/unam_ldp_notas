@@ -1,4 +1,4 @@
-[`Lenguajes de Programación`](../../README.md) > [`Unidad 1`](../README.md) > Semántica Natural
+[`Lenguajes de Programación`](../../README.md) > [`Unidad 2`](../README.md) > Semántica Natural
 
 # Semántica Natural
 
@@ -175,4 +175,4 @@ University, 2007.
 
 ---
 
-[`Anterior`](../tema04/README.md) | [`Siguiente`](../tema06/README.md)
+[`Anterior`](../tema01/README.md) | [`Siguiente`](../tema03/README.md)

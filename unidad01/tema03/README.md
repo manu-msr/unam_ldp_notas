@@ -101,4 +101,4 @@ A lo largo de estas notas nos enfocaremos en el estudio formal de pequeños leng
 
 ---
 
-[`Anterior`](../tema02/README.md) | [`Siguiente`](../tema04/README.md)
+[`Anterior`](../tema02/README.md) | [`Siguiente`](../../README.md)

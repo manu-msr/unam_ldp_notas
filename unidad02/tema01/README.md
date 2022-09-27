@@ -1,4 +1,4 @@
-[`Lenguajes de Programación`](../../README.md) > [`Unidad 1`](../README.md) > Sintaxis
+[`Lenguajes de Programación`](../../README.md) > [`Unidad 2`](../README.md) > Sintaxis
 
 # Sintaxis
 
@@ -173,4 +173,4 @@ cuando añadamos más elementos a nuestro lenguaje.
 
 ---
 
-[`Anterior`](../tema03/README.md) | [`Siguiente`](../tema05/README.md)
+[`Anterior`](../README.md) | [`Siguiente`](../tema02/README.md)
